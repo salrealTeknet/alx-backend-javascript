@@ -14,3 +14,4 @@ export function taskNext() {
   return combination;
 }
 
+taskFirst();
