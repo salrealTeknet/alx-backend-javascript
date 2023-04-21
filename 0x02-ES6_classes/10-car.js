@@ -37,4 +37,3 @@ export default class Car {
     return new this.constructor[Symbol.species]();
   }
 }
-
